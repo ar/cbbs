@@ -16,3 +16,4 @@ After CS/3, which had X.25 access to the Internet and hosted the first web pages
 
 This code doesn't build. It's placed here as a reference only, to share it with old BBS enthusiasts.
 
+![IMG_5398](flyer.jpg)
